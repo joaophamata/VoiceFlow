@@ -1,0 +1,5 @@
+vosk
+transformers
+datasets
+tkinter
+pyaudio
